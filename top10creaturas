@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <!--Caraga los caracteres latinos-->
+        <meta charset="UTF-8"
+        <title> Skyrim </title>
+    </head>
+    <body>
+        <!--Aquí empieza mi blog-->
+        <!-- inicia entrada: Arte-->
+        <nav>
+            <ul>
+                
+                <li>
+                    <a href="tema1.html" target= "_blank">De regreso a tema 1</a>
+                </li>
+
+            </ul> 
+
+        </nav>
+    <article> 
+        <!-- Empieza el título del blog-->
+        <header> 
+            <hgroup> 
+                <h2> Top 10 creaturas dentro de Skyrim</h2>
+                <h4> 30/11/21 </h4>
+
+            </hgroup>
+            
+        </header>
+        <div> 
+           
+            <p>10- Conejo </p>
+            <p>9- Vaca</p>
+            <p>8- Zombie</p>
+            <p>7- Cangrejo</p>
+            <p>6- Gigante</p>
+            <p>5- Araña gigante</p>
+            <p>4- Venados letales </p>
+            <p>3- Hombres lobo</p>
+            <p>2- Humanos</p>
+            <p>1- Vampiros</p>
+
+
+        </div>
+
+    
+
+        <!--empieza el footer-->
+        <footer>
+
+        </footer>
+        <!--termina el footer-->
+
+    </article>
+    <!--termina mi blog-->
+    
+    </body>
+
+</html>
