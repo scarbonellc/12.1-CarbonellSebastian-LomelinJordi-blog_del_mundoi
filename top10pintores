@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <!--Caraga los caracteres latinos-->
+        <meta charset="UTF-8"
+        <title> Arte </title>
+    </head>
+    <body>
+        <!--Aquí empieza mi blog-->
+        <!-- inicia entrada: Arte-->
+        <nav>
+            <ul>
+                
+                <li>
+                    <a href="tema2.html" target= "_blank">De regreso a tema 2</a>
+                </li>
+
+            </ul> 
+
+        </nav>
+    <article> 
+        <!-- Empieza el título del blog-->
+        <header> 
+            <hgroup> 
+                <h2> Top 10 pintores</h2>
+                <h4> 30/11/21 </h4>
+
+            </hgroup>
+            
+        </header>
+        <div> 
+           
+            <p>10- Paul Cézanne </p>
+            <p>9- Rembrandt</p>
+            <p>8- Diego Velázquez</p>
+            <p>7- Vincent Van Gogh</p>
+            <p>6- Leonardo daVinci</p>
+            <p>5- Diego Rivera</p>
+            <p>4- Frida Kahlo </p>
+            <p>3- Salvador Dalí</p>
+            <p>2- René Magritte</p>
+            <p>1- Caravaggio</p>
+
+
+        </div>
+
+    
+
+        <!--empieza el footer-->
+        <footer>
+
+        </footer>
+        <!--termina el footer-->
+
+    </article>
+    <!--termina mi blog-->
+    
+    </body>
+
+</html>
