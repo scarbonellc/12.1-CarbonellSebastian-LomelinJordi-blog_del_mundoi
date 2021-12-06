@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <!--Caraga los caracteres latinos-->
+        <meta charset="UTF-8"
+        <title> Boxeo </title>
+    </head>
+    <body>
+        <nav>
+            <ul>
+                
+                <li>
+                    <a href="tema 1.html"> Skyrim (tema 1) </a>
+                </li>
+
+            </ul> 
+
+        </nav>
+        <!--Aquí empieza mi blog-->
+        <!-- inicia entrada: Arte-->
+    <article> 
+        <!-- Empieza el título del blog-->
+        <header> 
+            <hgroup> 
+                <h2> Sitios oficiales </h2>
+                <h4> 30/11/21 </h4>
+
+            </hgroup>
+            
+        </header>
+        <div> 
+            <li>
+                <a href="https://elderscrolls.bethesda.net/es/skyrim" target= "_blank"> Skyrim (pagina oficial) </a>
+            </li>
+            <li>
+                <a href="https://es.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim" target= "_blank"> Wikipedia del juego (pagina oficial) </a>
+            </li>
+            <li>
+                <a href="https://www.somosxbox.com/the-elder-scrolls-v-skyrim-anniversary-edition-revela-su-precio-final/917682" target= "_blank"> Página de XBOX sobre el juego </a>
+            </li>
+            <li>
+                <a href="https://gamerant.com/skyrim-best-youtubers-2021/" target= "_blank"> Lista sobre mejores YouTubers que hacen contenido de Skyrim </a>
+            </li>
+            <li>
+                <a href="https://www.gamersdecide.com/articles/skyrim-mods-that-add-more-enemies" target= "_blank"> Página sobre mejores mods para agregar sobre creaturas </a>
+            </li>
+        </div>
+
+    
+
+        <!--empieza el footer-->
+        <footer>
+
+        </footer>
+        <!--termina el footer-->
+
+    </article>
+    <!--termina mi blog-->
+    
+    </body>
+
+</html>
