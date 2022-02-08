@@ -3,3 +3,65 @@
      <li > <a class="resaltado" href="index.html" target="_blank">Principal</a></li>
    </ul>
 </nav>
+
+.ilustracion figcaption {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-style: italic;
+}
+
+nav>ul>li {
+    
+}
+
+/*  Clases generales */
+body {
+    
+}
+
+article {
+
+}
+
+
+
+#titulo_del_blog {
+   
+}
+
+/* Terminan clases generales  */
+
+/* barra de navegación */
+
+.resaltado {
+
+}
+
+nav>ul>li {
+
+}
+
+nav>ul>li>a {
+
+}
+
+/* fin barra de navegación */
+
+/* footer del blog */
+#footer_blog {
+
+}
+
+/* fin del footer del blog */
+
+/* ilustraciones */
+
+.ilustracion {
+
+}
+
+.ilustracion figcaption {
+ 
+}
+
+/* fin ilustraciones */
