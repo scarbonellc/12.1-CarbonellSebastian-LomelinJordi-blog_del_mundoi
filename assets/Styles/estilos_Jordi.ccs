@@ -2,3 +2,13 @@ body{
     background-color: #000000 ;
     color: #FFF;
 }
+
+.ilustracion figcaption {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-style: italic;
+}
+
+nav>ul>li {
+    
+}
