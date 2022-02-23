@@ -8,7 +8,7 @@ article{
     padding: 1.5rem;
     border-bottom-style:solid;
     border-bottom-width: 1px;
-    border-bottom-color #FFF;
+    border-bottom-color:#FFF #FFF;
 }
 
 nav>ul>li{
