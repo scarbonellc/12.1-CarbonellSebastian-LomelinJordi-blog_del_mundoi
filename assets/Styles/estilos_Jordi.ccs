@@ -1,0 +1,47 @@
+body{
+    background-color: #000000 ;
+    color: #FFF;
+}
+
+article{
+    background-color: rgb(44,43,43);
+    padding: 1.5rem;
+    border-bottom-style:solid;
+    border-bottom-width: 1px;
+    border-bottom-color #FFF;
+}
+
+nav>ul>li{
+    color: #FFFF00;
+    list-style:none;
+}
+
+.resaltado{
+    color: #FFFF00;
+}
+
+nav>ul>li>a{
+    text-decoration:none;
+}
+
+#titulo_del_blog {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.ilustracion {
+    border-width: 4px;
+    border-style: solid;
+    border-color: #FFF;
+    display: inline-block;
+}
+
+.ilustracion figcaption {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-style: italic;
+}
+
+#footer_blog {
+    margin: 2rem;
+}
