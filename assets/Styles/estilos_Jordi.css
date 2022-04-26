@@ -69,7 +69,7 @@ section>footer {
 }
 
 /* grid */
-section {
+section>main {
     
     /* despliégate como  grid */
     display: grid;
